@@ -45,7 +45,7 @@ I'm a passionate developer, Artificial Intelligence and Machine Learning enthusi
 
 ⭐️ From [Mohammad Hashim](https://github.com/mohammadhashimcodes)
 
-
+![Animated SVG](https://svgshare.com/i/TMP.svg)
 
 
 
