@@ -25,12 +25,6 @@ I'm a passionate developer, Artificial Intelligence and Machine Learning enthusi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashimcodes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://yourblog.com/post1)
-- [Post 2 Title](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
@@ -45,7 +39,22 @@ I'm a passionate developer, Artificial Intelligence and Machine Learning enthusi
 
 ⭐️ From [Mohammad Hashim](https://github.com/mohammadhashimcodes)
 
-![Animated SVG](https://svgshare.com/i/TMP.svg)
+<svg width="400" height="60">
+  <defs>
+    <linearGradient id="gradient1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="5%" stop-color="#FF56A1"/>
+      <stop offset="95%" stop-color="#FF9350"/>
+    </linearGradient>
+    <pattern id="wave" x="0" y="0" width="120" height="60" patternUnits="userSpaceOnUse">
+      <path id="wavePath" d="M 0 30 Q 30 60 60 30 T 120 30 V 60 H 0 V 30 Z" fill="url(#gradient1)">
+        <animateTransform attributeName="transform" type="translate" begin="0s" dur="1.5s" values="0,0; 120,0" repeatCount="indefinite"/>
+      </path>
+    </pattern>
+  </defs>
+  <rect width="400" height="60" fill="url(#wave)" />
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Arial" font-size="24" fill="white">Welcome to My Profile</text>
+</svg>
+
 
 
 
