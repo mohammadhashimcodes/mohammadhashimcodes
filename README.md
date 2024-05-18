@@ -4,7 +4,7 @@
 
 I'm a passionate developer, Artificial Intelligence and Machine Learning enthusiast. Specializing in C, C++, Python, JavaScript, HTML, CSS, and MySQL. I love working on innovative projects and am always looking to collaborate on exciting ventures. Here’s a bit more about me:
 
-- 📫 Reach me : [hashimmohammad1375@gmail.com]
+- 📫 Reach me : hashimmohammad1375@gmail.com
 
 ## 🛠️ Skills and Tools
 
@@ -32,7 +32,8 @@ I'm a passionate developer, Artificial Intelligence and Machine Learning enthusi
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/bytemazehashim/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@ByteMazeHashim"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://www.twitter.com/ByteMazeHashim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
 </p>
 
 ---
